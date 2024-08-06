@@ -2,7 +2,7 @@
  * 
  */var stop, staticx;
 var img = new Image();
-img.src="img/520.jpg";
+img.src="img/1.jpg";
 // 樱花数量 (添加)
 var sakuraNum = 25;
 // 樱花越界限制次数, -1不做限制,无限循环 (添加)
